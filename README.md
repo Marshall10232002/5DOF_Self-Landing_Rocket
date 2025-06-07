@@ -11,9 +11,9 @@ This project implements a control strategy for a self-landing rocket using a **G
 
 ## 📂 How to Run
 
-1. Run `gain_table_generation.m` to generate the gain schedule table.
-2. Run `observer_gain_table_generation.m` to generate the observer gain schedule.
-3. Run `main_simulation.m` to simulate the full rocket landing scenario.
+1. Run `gaintable_6DOF_sim.m` to generate the gain schedule table.
+2. Run `observer_gaintable_6DOF.m` to generate the observer gain schedule.
+3. Run `Observer_full_simulation.m` to simulate the full rocket landing scenario.
 
 All files are located in the `matlab_code` folder.
 
