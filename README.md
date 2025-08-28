@@ -15,8 +15,6 @@ This project implements a control strategy for a self-landing rocket using a **G
 2. Run `observer_gaintable_6DOF.m` to generate the observer gain schedule.
 3. Run `Observer_full_simulation.m` to simulate the full rocket landing scenario.
 
-All files are located in the `matlab_code` folder.
-
 ## 👥 Authors
 
 - **Marshall Chang** — b10502039@ntu.edu.tw
