@@ -1,4 +1,4 @@
-# 🚀 Advanced Controller Design: Gain-Scheduled LQR for a Self-Landing Rocket
+# 🚀 Gain-Scheduled LQR for a Self-Landing Rocket
 
 This project implements a control strategy for a self-landing rocket using a **Gain-Scheduled Linear Quadratic Regulator (LQR)** and a **Disturbance Observer (DOB)**. The system is tested under challenging conditions such as mass variation and wind disturbances.
 
