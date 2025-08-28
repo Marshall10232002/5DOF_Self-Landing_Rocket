@@ -17,10 +17,6 @@ This project implements a control strategy for a self-landing rocket using a **G
 
 All files are located in the `matlab_code` folder.
 
-## 📄 Report
-
-The final project report is available in IEEE format under the `report/` folder.
-
 ## 👥 Authors
 
 - **Marshall Chang** — b10502039@ntu.edu.tw
